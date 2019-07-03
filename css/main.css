@@ -34,16 +34,18 @@ body {
     width: 100%;
     background-size: cover;
     background-repeat: no-repeat;
+  
 }
-.grid{
+.grid1{
 
-    background-color: #dbdddf2f;
+    background-color: #090a0a71;
     position: absolute;
-		overflow: visible;
-        height: 80%;
-        width: 90%;
-		left: 5%;
-		top: 15%;
+	overflow: visible;
+    height: 80%;
+    width: 90%;
+	left: 5%;
+    top: 15%;
+    
 }
 
 /* ------------------------------------------------------------------- 
